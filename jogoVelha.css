@@ -13,6 +13,7 @@ body {
     margin: 10px;
     cursor: pointer;
     color: #eee;
+    border-radius: 100%;
 }
 
 .jogador, .vencedor{ 
